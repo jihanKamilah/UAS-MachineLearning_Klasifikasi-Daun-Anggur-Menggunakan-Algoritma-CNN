@@ -4,3 +4,6 @@
 <h5>Dalam penelitian, didapatkannya hasil evaluasi dengan menggunakan arsitektur ResNet50 yaitu 85%. Sedangkan, dengan menggunakan arsitektur VGGNet19 didapatkan hasil evaluasi 80%. Dilihat dari dua arsitektur yang telah digunakan pada penelitian ini, model arsitektur ResNet50 lah yang menghasilkan performa sistem terbaik.</h5> 
 
 - Projek ini dibuat pada tahun 2022.
+
+Saya juga mempublikasikan proyek ini ke platform Medium dalam bentuk lebih singkat namun tetap menjelaskan segala poin penjelasan dalam laporan ilmiah dan kode program. Berikut Link artikel Medium:
+https://medium.com/@jihankamilah/implementasi-algoritma-cnn-untuk-klasifikasi-pada-daun-anggur-resnet50-vs-vggnet19-8353ba4d69a4
